@@ -3,9 +3,10 @@
  */
 
 import React, {
-	Component,
-	PropTypes
+	Component
 } from 'react';
+
+import PropTypes from 'prop-types';
 
 import {
 	StyleSheet,
